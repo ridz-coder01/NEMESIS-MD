@@ -80,7 +80,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 <table align="center">
  <tr>
     <td>
-      <a href="https://nebulasession.zone.id/" target="_blank">
+      <a href="https://mawrldsessions.zone.id" target="_blank">
  <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
       </a>
     </td>
