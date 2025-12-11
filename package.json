@@ -54,6 +54,7 @@
     "api-dylux":"1.8.5",
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
-    "mrnima-moviedl":"1.0.0"
+    "mrnima-moviedl":"1.0.0",
+"entities": "2.2.0"
   }
 }
