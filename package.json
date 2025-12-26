@@ -11,7 +11,7 @@
     "restart": "pm2 restart MARWLD"
   },
   "dependencies": {
-       "@whiskeysockets/baileys": "npm:baileys-pro@latest",
+       "@whiskeysockets/baileys": "npm:@skyzopedia/baileys-pro@latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
