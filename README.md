@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">MAWRLD-MD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEMESIS MD</h1>
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 <div align="center">
   <a href="https://github.com/Ridz-coder01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/MAWRLD-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/MAWRLD-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/MAWRLD-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/MAWRLD-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEMESIS-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEMESIS-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEMESIS-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAWRLD-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
+  <img src="https://komarev.com/ghpvc/?username=NEMESIS-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
 
 <!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -28,67 +28,66 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
+> **CURRENT BOT VERSION ➜ `1.0.0. ⚡`**
 ---
 
-<a><img src='https://files.catbox.moe/qwpimr.png'/></a>
+<a><img src='https://files.catbox.moe/sbgnhh.png'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-<a href="https://github.com/Ridz-coder01">
+<a href="https://github.com/RIDZ-CODER01">
 <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=550&lines=🚀+Multi-Functional+WhatsApp+Bot;🎯+Next-Gen+Automation+For+WhatsApp;💎+By+Ridz+Coder" alt="Typing Animation">
 </a>
 </p>
 
 ---
-
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>MAWRLD-MD</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">
+Deploy <strong>NEMESIS MD</strong> on your preferred platform.
+</p>
 
+<p align="center">
+  <a href="https://github.com/Ridz-coder01/NEMESIS-MD/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download_ZIP-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ridz-coder01/MAWRLD-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ridz-coder01/MAWRLD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
- <tr>
-    <td>
-      <a href="https://github.com/Ridz-coder01/NEBULA-XMD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://heroku.com/deploy">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
+  <a href="https://railway.app/new">
+    <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://render.com/deploy">
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  </a>
+  <a href="https://app.koyeb.com/deploy">
+    <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://replit.com/github">
+    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  </a>
+  <a href="https://termux.dev/en/">
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <hr>
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
-
----
-<table align="center">
- <tr>
-    <td>
-      <a href="https://mawrldsessions.zone.id" target="_blank">
- <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>  
+  
 
 ___
-## ✨ MAWRLD-MD Features
+## ✨ NEMESIS MD FEATURES
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
@@ -114,7 +113,7 @@ ___
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBATdIJJhzOXep1c31K" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
@@ -122,17 +121,7 @@ ___
 
 ---
 
-<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS MAWRLD-MD
-</h2>
 
-<div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
-
-<a href="https://github.com/ridz-coder01" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridz-coder01&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
-</a>
-
-</div>
 
 ---
 
@@ -170,30 +159,3 @@ Inspired by the original work of <strong>Balleys</strong>, and enhanced by the c
 </div>
 
 ---
-<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
-🧾 LICENSE 
-</h2>
-
-<div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
-
-<p style="color:#ffffff; font-size:14px;">
-This project is licensed under the <strong>MIT License</strong><br>
-You are not allowed to use, modify, and distribute it under the terms of this license.
-</p>
-
-<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-  <img src="https://img.shields.io/badge/APACHE 2.0-ff69b4?style=for-the-badge&logo=apache" />
-</a>
-
-</div>
-
----
-
-<h3 align="center">🙏 Thanks for using!</h3>
-<p align="center">
-  If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/ridz-coder01">Ridz Coder</a>
-</p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
